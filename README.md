@@ -30,3 +30,11 @@ s.no|name|designation
 2.|ahmed|pd
 3.|r|none
   
+  
+  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+ - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+~~ i like github~~
