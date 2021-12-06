@@ -37,4 +37,4 @@ s.no|name|designation
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-~~ i like github~~
+~~i like github~~
